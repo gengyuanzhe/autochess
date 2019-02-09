@@ -1,0 +1,2 @@
+# autochess
+tutorial for autochess
